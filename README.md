@@ -1,2 +1,2 @@
-# celeste1336.github.io
+# celeste1337.github.io
 Repository for personal page files!
