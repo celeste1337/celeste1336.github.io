@@ -1,2 +1,2 @@
 # celeste1337.github.io
-Repository for personal page files!
+Quick test website for IGME230.
